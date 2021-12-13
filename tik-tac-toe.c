@@ -1,4 +1,3 @@
-// 20CP046 & 20CP053 //
 
 #include <stdio.h>
 #include <conio.h>
